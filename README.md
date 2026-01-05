@@ -1,2 +1,2 @@
-<img src="HR_Dashboard_screen.png" alt="Dashboard" width="1000"/>
+![HR Dashboard](HR%20Dashboard%20screen.PNG)
 
